@@ -1,0 +1,76 @@
+
+#govde{
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#alt-card
+{
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+
+.header{
+    width: 100%;
+    background-color: lightgray;
+    margin-bottom: 2px;
+}
+
+.denemesol{
+    float:left;
+}
+
+#search
+{
+    width: 300px;
+    height: auto;
+    margin:3px auto;
+}
+
+#search1
+{
+    width: 150px;
+    height: auto;
+    margin: 5% 0;
+}
+
+#search2
+{
+    width: 150px;
+    height: auto;
+    margin: 1% 0;
+}
+
+#search3
+{
+    width: 550px;
+    height: auto;
+    border-color: blue;
+    margin: 12% 0;
+}
+
+.header-center{
+    width: 310px;
+    height:auto;
+    margin:0px auto; 
+    border-color: brown;   
+}
+
+.card {
+    width: 33%;
+    height: 120px;
+    margin-left: 2px;
+    float: left;
+    margin-bottom: 2px;
+    background-color: rgb(159, 192, 165);
+  }
+
+ p{
+    margin:0;
+    padding:0;
+  }
+  
+  
